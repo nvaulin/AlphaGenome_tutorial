@@ -77,7 +77,7 @@ jupyter notebook
 - Documentation: https://www.alphagenomedocs.com
 - Model page & API key:* https://deepmind.google.com/science/alphagenome/
 - Community Forum: https://www.alphagenomecommunity.com/
-- Žiga Avsec et al. *Sequence-based genomic prediction with AlphaGenome.* Nature (2025). https://www.nature.com/articles/s41586-025-10014-0
+- Žiga Avsec et al. *Advancing regulatory variant effect prediction with AlphaGenome.* Nature (2025). https://www.nature.com/articles/s41586-025-10014-0
 
 ***Extra materials***:
 - Tangermeme package: https://github.com/jmschrei/tangermeme
